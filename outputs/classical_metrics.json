@@ -1,0 +1,8 @@
+{
+    "accuracy": 0.55,
+    "precision": 0.5625,
+    "recall": 0.8181818181818182,
+    "f1_score": 0.6666666666666666,
+    "training_time_seconds": 0.22119545936584473,
+    "prediction_time_seconds": 0.004039287567138672
+}
